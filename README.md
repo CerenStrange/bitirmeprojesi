@@ -1,4 +1,4 @@
-## Vite + React, Bootstrap 5.3.3 ve React Router DOM kullanılarak yazdığım sitede 'acikyesi.bursa.bel.tr' sitesinden aldığım BURFAŞ verilerini kullanarak basit bir Burfaş websitesi oluşturdum.
+## Vite + React, Bootstrap 5.3.3 ve React Router DOM kullanılarak yazdığım sitede 'acikyesil.bursa.bel.tr' sitesinden aldığım BURFAŞ verilerini kullanarak basit bir Burfaş websitesi oluşturdum.
 
 ### API oluşturmada ChatGPT'den destek alınmıştır.
 
