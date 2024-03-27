@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
-import burfas from './assets/burfas.png'
+import burfas from '../assets/burfas.png'
 
 
 function Navbar() {
