@@ -26,17 +26,17 @@ function App() {
           <SiteRoutes />
         </div>
         <hr />
-        <p><img src="src/assets/cerenlogo.png" width="80px" />
+        <p><img src={cerenlogo} width="80px" />
           &copy;Ceren ÇELİK tarafından code16 bitirme projesi olarak hazırlanmıştır.</p>
         <p>
-          <Link to="https://uretkenakademi.com/"><img src="src/assets/uretkenakademi.webp" width="100px" /></Link>
-          <Link to="https://www.bursa.bel.tr"> <img src="src/assets/bursabb.png" width="100px" /></Link>
-          <img src="src/assets/akillisehir.png" width="100px" />
-          <img src="src/assets/akillisehirbursa.png" width="100px" />
+          <Link to="https://uretkenakademi.com/"><img src={uretkenakademi} width="100px" /></Link>
+          <Link to="https://www.bursa.bel.tr"> <img src={bursabb} width="100px" /></Link>
+          <img src={akillisehir} width="100px" />
+          <img src={akillisehirbursa} width="100px" />
           <div>
-            <Link to="https://www.instagram.com/bursaburfas/"><img src="src/assets/instagram.png" width="45px" /></Link>
-            <Link to="https://www.facebook.com/bursaburfas/"><img src="src/assets/facebook.png" width="45px" /></Link>
-            <Link to="https://www.twitter.com/burfasbursa"><img src="src/assets/twitterx.webp" width="45px" /></Link>
+            <Link to="https://www.instagram.com/bursaburfas/"><img src={instagram} width="45px" /></Link>
+            <Link to="https://www.facebook.com/bursaburfas/"><img src={facebook} width="45px" /></Link>
+            <Link to="https://www.twitter.com/burfasbursa"><img src={twitterx} width="45px" /></Link>
           </div>
         </p>
 
